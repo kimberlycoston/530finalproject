@@ -79,11 +79,11 @@ Validate with additional real-world CRRT data if available
 ├── complete_blood_count.csv
 ├── crrt.csv
 ├── first_day_sofa.csv
-├── script.ipynb              # Main analysis notebook
-├── Project proposal.docx     # Proposal write-up
+├── script.ipynb        
+├── Project proposal.docx
 ├── screenshot1.png
 ├── screenshot2.png
-└── README.md                 # You're reading it
+└── README.md  
 
 🏥 Why It Matters
 
@@ -95,4 +95,4 @@ Prevent avoidable therapy interruptions
 
 Improve nursing workflow and patient safety
 
-Build evidence for explainable AI at the bedside# 530finalproject
+Build evidence for explainable AI at the bedside
